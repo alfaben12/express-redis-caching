@@ -1,0 +1,24 @@
+{
+  "name": "express-redis-caching",
+  "version": "1.0.0",
+  "description": "express-redis-caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaben12/express-redis-caching.git"
+  },
+  "author": "Thariq Alfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfaben12/express-redis-caching/issues"
+  },
+  "homepage": "https://github.com/alfaben12/express-redis-caching#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "superagent": "^5.2.2"
+  }
+}
