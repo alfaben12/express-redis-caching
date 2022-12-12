@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/alfaben12/express-redis-caching#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "redis": "^3.0.2",
     "superagent": "^5.2.2"
   }
